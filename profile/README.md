@@ -1,9 +1,12 @@
-# Welcome to TangleHUB! 👋
-TangleHUB is a collection of useful software for IOTA! It is the organization behind the software of PIPE.
+# Welcome to Chunk Works! 👋
+Chunk Works is the data continuity company. 
+Our software protects business continuity by ensuring that companies always have access to their data, which is critical in the modern data economy. 
+It is the company behind the software QuSec.
 
-# What is PIPE?
-PIPE offers decentralized data storage and transfer with a focus on user experience. It solves the problem of how to store and transfer any amount of data immutably and decentralized in a user friendly way. 💫
+# What is QuSec?
+QuSec® is the innovative data continuity platform that simplifies data security,
+reduces costs, and keeps you in control of your data—now and in the future.. 💫
 
-# How do I use it?
-You can view more information at our website: [tanglehub.eu](https://tanglehub.eu/) 🌐
-You can also browse our variows [reposities](https://github.com/orgs/Tanglehub/repositories)!
+# How do I obtain it?
+You can view more information at our website: [www.chunkworks.net](https://chunkworks.net/) 🌐
+Or get in touch with our team or send a email to info@chunkworks.net
